@@ -1,3 +1,7 @@
+*{
+margin: 0;
+padding: 0;
+}
 div[class=rapper]{
 width: 100%;
 height: 500px;
@@ -6,138 +10,120 @@ background-color: white;
 div[class=header]{
 width: 100%;
 height: 60px;
-background-color: darkgoldenrod;
-margin: 4px;
+background-color: white;
+margin: 0;
+background-image: url('../imgs/5af9ab7bff5a121249e1a26b4ad606431bd6675f_1662558785.jpg');
+background-repeat: no-repeat;
+background-position:  top left;
+background-size: contain;
 }
 div[class=serch]{
 width: 100%;
 height: 50px;
 background-color: rgb(54, 54, 54);
-margin: 4px;
 }
 div[class=themenu]{
 width: 100%;
 height: 30px;
 background-color: rgb(184, 6, 6);
-margin: 4px;
 }
 div[class=Proposal]{
 width: 100%;
 height: 400px;
 background-color: blue;
-margin: 4px;
 }
 div[class=Grouping]{
 width: 100%;
 height: 40px;
 background-color: rgb(26, 206, 197);
-margin: 4px;
 }
 div[class=Discounts]{
 width: 100%;
 height: 210px;
 background-color: rgb(182, 26, 122);
-margin: 4px;
 }
 div[class=Fooddiscounts]{
 width: 100%;
 height: 90px;
 background-color: rgb(155, 1, 27);
-margin: 4px;
 }
 div[class=ci]{
 width: 100%;
 height: 400px;
 background-color: rgb(15, 0, 49);
-margin: 4px;
 }
 div[class=Proposald]{
 width: 100%;
 height: 110px;
 background-color: blueviolet;
-margin: 4px;
 }
 div[class=MostPopular]{
 width: 100%;
 height: 150px;
 background-color: aqua;
-margin: 4px;
 }
 div[class=Festival]{
 width: 100%;
 height: 270px;
 background-color: indigo;
-margin: 4px;
 }
 div[class=Technology]{
 width: 100%;
 height: 300px;
 background-color: gold;
-margin: 4px;
 }
 div[class=plus]{
 width: 100%;
 height: 360px;
 background-color: darkred;
-margin: 4px;
 }
 div[class=club]{
 width: 100%;
 height: 70px;
 background-color: hotpink;
-margin: 4px;
 }
 div[class=random]{
 width: 100%;
 height: 230px;
 background-color: lightgreen;
-margin: 4px;
 }
 div[class=bestsellers]{
 width: 100%;
 height: 230px;
 background-color: lightslategray;
-margin: 4px;
 }
 div[class=Thechosenones]{
 width: 100%;
 height: 600px;
 background-color: violet;
-margin: 4px;
 }
 div[class=singing]{
 width: 100%;
 height: 140px;
 background-color: bisque;
-margin: 4px;
 }
 div[class=Information]{
 width: 100%;
 height: 650px;
 background-color: black;
-margin: 4px;
 }
 div[class=Download]{
 width: 100%;
 height: 80px;
 background-color: blanchedalmond;
-margin: 4px;
 }
 div[class=shoppe]{
 width: 100%;
 height: 230px;
 background-color: aquamarine;
-margin: 4px;
 }
 div[class=p]{
 width: 100%;
 height: 60px;
 background-color: darkturquoise;
-margin: 4px;
 }
 div[class=logo]{
 width: 100%;
 height: 110px;
 background-color: green;
-margin: 4px;
 }
